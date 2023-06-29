@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "my-lab",
-=======
-  "name": "my-house",
->>>>>>> c482f3db7ce9234402ad42cb075c246279be8311
   "version": "0.1.0",
   "private": true,
   "dependencies": {

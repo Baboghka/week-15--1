@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 
   import './App.css';
@@ -124,23 +123,8 @@ function App() {
           </div>
         </div>
       ))}
-=======
-import React from 'react'
-import './App.css';
-import HousesPage from './HousePage';
-
-function App() {
-  return (
-    <div className="App">
-      <HousesPage />
->>>>>>> c482f3db7ce9234402ad42cb075c246279be8311
     </div>
   );
 }
 
 export default App;
-<<<<<<< HEAD
-=======
-
-
->>>>>>> c482f3db7ce9234402ad42cb075c246279be8311

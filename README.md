@@ -69,10 +69,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # week-15--1
+<<<<<<< HEAD
 # week-15--2
 # week-15--2
 # week-15--2
 # 15-2-homework
 # 15-2-homework
 # week-15--2
+=======
+# week-15--1
+# week-15--1
+# week-15--1
+>>>>>>> c482f3db7ce9234402ad42cb075c246279be8311
 # week-15--2

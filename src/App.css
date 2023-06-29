@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 button {
   background-color: blue;
   color: white;
@@ -28,5 +29,64 @@ form input {
 }
 label{
 color:blue
+=======
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.title, .body {
+  padding: 10px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+}
+
+
+
+.App {
+  text-align: center;
+  background-color:lightblue ;
+}
+
+
+.houses-page {
+  padding: 30px;
+}
+
+.add-house-form {
+  margin-bottom: 20px;
+  background-color: lightgrey;
+  padding: 20px;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.house-list {
+  display: grid;
+  grid-gap: 20px;
+}
+
+.house {
+  border: 1px solid lightcyan;
+  padding: 20px;
+}
+
+.house-buttons {
+  margin-top: 10px;
+}
+
+button {
+  background-color: blue;
+  color: white;
+}
+
+h2{
+  color:blue;
+}
+label{
+  color:royalblue;
+>>>>>>> c482f3db7ce9234402ad42cb075c246279be8311
 }
 
